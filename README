@@ -1,0 +1,4 @@
+# add rofi config (/$home/.config/rofi/config)
+sudo pacman -S rofi
+rofi -show drun
+
